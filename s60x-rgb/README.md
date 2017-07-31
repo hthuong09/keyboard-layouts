@@ -1,7 +1,7 @@
 ## My custom firmware layout for S60-X RGB PCB
 
 ### Layer 0 - Normal layer
-![Layer 0](/assets/layer0.png)
+![Layer 0](/s60x-rgb/assets/layer0.png)
 - Default ASCII QWERTY layout with some replacement
 - `Left Control` was replaced with `Momentary Layer Change` key a.k.a `FN1`, when hold down it will switch to Layer 1 (FN layer)
 - `F` was replaced with `Layer-tap` key a.k.a `FN2`, when hold down it will switch to layer 2 (Vim Mode layer), when tap (press then release) it will act as `F`
@@ -11,7 +11,7 @@
 - `LGUI` and `Left Alt` swapped
 
 ### Layer 1 - FN Layer
-![Layer 1](/assets/layer1.png)
+![Layer 1](/s60x-rgb/assets/layer1.png)
 - Held `FN1` + `Tab` = `CapsLock`
 - Held `FN1` + `1 to =` = `F1 to F12`
 - Held `F1` + `q` = `Media Prev`
@@ -24,7 +24,7 @@
 - Held `F1` + `p` = `Screen Print`
 
 ### Layer 2 - Vi Mode layer
-![Layer 2](/assets/layer2.png)
+![Layer 2](/s60x-rgb/assets/layer2.png)
 - Held `FN2` + `h` = `Left`
 - Held `FN2` + `j` = `Down`
 - Held `FN2` + `k` = `Up`
@@ -35,7 +35,7 @@
 - Held `FN2` + `o` = `End`
 
 ### Layer 3 - LED Control (Underglow) layer
-![Layer 3](/assets/layer3.png)
+![Layer 3](/s60x-rgb/assets/layer3.png)
 - Held `FN3` + `t` = `Toggle Underglow Led`
 - Held `FN3` + `m` = `Change Underglow Led Mode`
 - Held `FN3` + `1` = `Increase Hue`
